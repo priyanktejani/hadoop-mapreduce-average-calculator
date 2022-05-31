@@ -1,0 +1,1 @@
+# hadoop-mapreduce-average-calculator

@@ -1,4 +1,4 @@
-Student_id,Student_name,Sex,Age,Grade,Department
+Student_id,Student_name,Sex,Age,Module,Grade,Department
 1581,Harry,M,20,Machine Learning,80,Data Science
 1579,Hermione,F,19,Software Engineering,91,Computer Science
 1583,Ron,M,21,Machine Learning,78,Computer Science

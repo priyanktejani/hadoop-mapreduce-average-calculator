@@ -21,3 +21,7 @@ This is the phase that is responsible to calculates the average grade of each mo
 <p align="left">
   <img width="800" src="https://github.com/priyanktejani/hadoop-mapreduce-average-calculator/blob/master/screenshots/reduce.jpg">
 </p>
+
+## License
+
+MIT. Copyright (c) [MIT License](./LICENSE).
